@@ -56,3 +56,9 @@ All I'm doing here is removing where I hear the mud in my kick.
 -
 ![image](https://github.com/user-attachments/assets/6fa9211d-c4e9-448b-8bbf-cea52318c41e)
 
+
+This is all of the info you need to know on using 909 ABUSER
+the next step is to download and go through the installation process which i have put together in the Installation Instructions file
+
+INSTALLATION INSTRUCTIONS: https://github.com/lunsaiance/909abuser/blob/main/Installation%20Instructions
+
