@@ -70,6 +70,6 @@ The next step is to download and go through the installation process, which I ha
 
 IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD @omglunsai
 
-INSTALLATION INSTRUCTIONS: https://github.com/lunsaiance/909abuser/blob/main/Installation%20Instructions
+INSTALLATION INSTRUCTIONS: https://github.com/lunsaiance/909abuser/blob/main/Installation%20Instructions.md
 
 
