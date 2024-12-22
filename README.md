@@ -62,6 +62,8 @@ All I'm doing here is removing where I hear the mud in my kick.
 
 **THIS WILL PREVENT YOUR KICK FROM BEING TOO LOUD AND HARD TO LISTEN TO**
 
+⚠️ **ALL SOFT CLIPPERS SHOULD BE AT THEIR DEFAULT VALUE** ⚠️
+
 -
 
 This is all the info you need to know on using 909 ABUSER!
