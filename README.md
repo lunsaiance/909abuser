@@ -9,7 +9,7 @@
 -
 ⚠️ HEADS UP BEFORE DOWNLOADING ⚠️
 
-this will *ONLY* work with FLStudio and *REQUIRES* Fab Filter Pro Q 3
+this will *ONLY* work with FLStudio and *REQUIRES* Fab Filter Pro Q3
 and I *HIGHLY SUGGEST* making *your own* 909s with Xfer Serum
 -
 **!!ALL UPDATES WILL BE POSTED HERE!!**
@@ -50,7 +50,7 @@ All I'm doing here is removing where I hear the mud in my kick.
 
 ⚠️ HEADS UP ⚠️
 
-**YOU DO NOT NEED PRO Q 3 WHILE CLEANING UP, THIS IS A PERSONAL PREFERENCE**
+**YOU DO NOT NEED PRO Q3 WHILE CLEANING UP, THIS IS A PERSONAL PREFERENCE**
 -
 ![image](https://github.com/user-attachments/assets/6fa9211d-c4e9-448b-8bbf-cea52318c41e)
 
