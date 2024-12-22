@@ -1,7 +1,7 @@
 ⚠️ **BEFORE INSTALLING PLEASE MAKE SURE THAT YOU HAVE A COPY OF FL STUDIO AND FAB FILTER PRO Q 3** ⚠️
-
-This process contains 2 ways you can install 909 ABUSER
 -
+This process contains 2 ways you can install 909 ABUSER
+
 PLUGIN DATABASE INSTALLATION
 1. Download the latest release from here: https://github.com/lunsaiance/909abuser/releases 
 
