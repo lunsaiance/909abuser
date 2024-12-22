@@ -29,9 +29,9 @@ Here are some gifs to help better explain how this plugin works
 ![3 THE DISTORTION](https://github.com/user-attachments/assets/0f0094f1-3aac-4a98-9dd0-14a1fa283ae9)
 
 # HOW DO I GET A CLEANER SOUND?
-This section is **MAINLY** for the people who make Frenchcore, I **HIGHLY RECOMMEND** that you guys do this so your kick isn't muddy
+This section is **MAINLY** for the people who make Frenchcore, I **HIGHLY RECOMMEND** that you guys do this so your kick isn't muddy.
 
-ALl im doing here is removing where I hear the mud in my kick.
+All I'm doing here is removing where I hear the mud in my kick.
 
 **!!THIS WAS ALSO MADE USING AN OLDER VERSION OF 909 ABUSER!!**
 -
