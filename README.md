@@ -1,5 +1,5 @@
 # 909abuser
-909 ABUSER is a plugin for FLStudio's Patcher, which helps make Gabber & Hardcore Kicks in seconds!
+909 ABUSER™️ is a plugin for FLStudio's Patcher, which helps make Gabber & Hardcore Kicks in seconds!
 
 -
 ⚠️ HEADS UP BEFORE DOWNLOADING ⚠️
