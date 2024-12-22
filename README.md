@@ -40,7 +40,7 @@ It's pretty self-explanatory, adds or removes sub
 
 **4. OUR BELOVED DISTORTION**
 
-The main sauce of your kick. I would like to add that adding too much of this can SOMETIMES ruin the sound of your kick, dont add too much distortion
+The main sauce of your kick. I would like to add that adding too much of this can SOMETIMES ruin the sound of your kick, don't add too much distortion
 ![3 THE DISTORTION](https://github.com/user-attachments/assets/0f0094f1-3aac-4a98-9dd0-14a1fa283ae9)
 
 # HOW DO I GET A CLEANER SOUND?
@@ -56,6 +56,13 @@ All I'm doing here is removing where I hear the mud in my kick.
 -
 ![image](https://github.com/user-attachments/assets/6fa9211d-c4e9-448b-8bbf-cea52318c41e)
 
+**MAKE SURE TO ADD A SOFT CLIPPER ON SLOT 9 OF YOUR MASTER CHANNEL AND EDISON ON SLOT 10 TO RECORD AUDIO**
+
+**IN YOUR KICK CHANNEL PUT A SOFT CLIPPER ON SLOT 10**
+
+**THIS WILL PREVENT YOUR KICK FROM BEING TOO LOUD AND HARD TO LISTEN TO**
+
+-
 
 This is all the info you need to know on using 909 ABUSER!
 
