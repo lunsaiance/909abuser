@@ -20,6 +20,7 @@ and I *HIGHLY SUGGEST* making *your own* 909s with Xfer Serum
 
 # HOW DOES IT WORK?
 Here are some gifs to help better explain how this plugin works
+
 -
 
 **1. THE ASYMMETRY SLIDER**
