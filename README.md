@@ -35,7 +35,7 @@ This allows you to choose what frequency your kick and punch is in
 
 **3. THE SUB-BASS**
 
-It's pretty self-explanatory, adds or removes sub 
+It's pretty self-explanatory, adds or removes sub (there will be a way to change the sub frequency in a future update)
 ![2 THE SUB](https://github.com/user-attachments/assets/fa59b441-caee-45fc-ad29-2992265ecf16)
 
 **4. OUR BELOVED DISTORTION**
