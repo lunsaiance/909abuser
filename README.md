@@ -21,15 +21,19 @@ Here are some gifs to help better explain how this plugin works
 -
 
 **1. THE ASYMMETRY SLIDER**
+All this does is make your kick sound a little punchier.
 ![0 ASYM](https://github.com/user-attachments/assets/bd65c003-2219-447c-9b87-282764f75dee)
 
 **2. THE PUNCH/MAIN FREQUENCY**
+This allows you to choose what frequency your kick and punch is in
 ![1 THE PUNCH](https://github.com/user-attachments/assets/63bc424c-3fa8-4703-82be-c42875fa98da)
 
-**3. THE SUB BASS**
+**3. THE SUB-BASS**
+It's pretty self-explanatory, adds or removes sub 
 ![2 THE SUB](https://github.com/user-attachments/assets/fa59b441-caee-45fc-ad29-2992265ecf16)
 
 **4. OUR BELOVED DISTORTION**
+The main sauce of your kick. I would like to add that adding too much of this can SOMETIMES ruin the sound of your kick, dont add too much distortion
 ![3 THE DISTORTION](https://github.com/user-attachments/assets/0f0094f1-3aac-4a98-9dd0-14a1fa283ae9)
 
 # HOW DO I GET A CLEANER SOUND?
