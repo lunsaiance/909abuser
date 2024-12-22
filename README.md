@@ -30,7 +30,7 @@ All this does is make your kick sound a little punchier.
 
 **2. THE PUNCH/MAIN FREQUENCY**
 
-This allows you to choose what frequency your kick and punch is in
+This allows you to choose what frequency your kick and punch is in, just don't go too high
 ![1 THE PUNCH](https://github.com/user-attachments/assets/63bc424c-3fa8-4703-82be-c42875fa98da)
 
 **3. THE SUB-BASS**
