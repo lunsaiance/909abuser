@@ -45,7 +45,7 @@ This section is **MAINLY** for the people who make Frenchcore, I **HIGHLY RECOMM
 
 All I'm doing here is removing where I hear the mud in my kick.
 
-**!!THIS WAS ALSO MADE USING AN OLDER VERSION OF 909 ABUSER!!**
+**!!THIS GIF WAS MADE USING AN OLDER VERSION OF 909 ABUSER!!**
 
 ⚠️ HEADS UP ⚠️
 
