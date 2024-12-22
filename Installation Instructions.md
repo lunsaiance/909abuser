@@ -28,26 +28,3 @@ PATCHER INSTALLATION
 
 IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD @omglunsai
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[909 ABUSER](https://github.com/user-attachments/assets/6832e114-ea2c-499c-8f1b-21f2005625d6)
