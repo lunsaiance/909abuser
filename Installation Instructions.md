@@ -1,6 +1,6 @@
 ⚠️ **BEFORE INSTALLING PLEASE MAKE SURE THAT YOU HAVE A COPY OF FL STUDIO AND FAB FILTER PRO Q3** ⚠️
 -
-This process contains 2 ways you can install 909 ABUSER
+This process contains 2 ways you can install 909 ABUSER™️
 
 -
 
