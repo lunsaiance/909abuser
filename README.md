@@ -72,8 +72,3 @@ The next step is to download and go through the installation process, which I ha
 IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD @omglunsai
 
 INSTALLATION INSTRUCTIONS: https://github.com/lunsaiance/909abuser/blob/main/Installation%20Instructions.md
-
-
-[909 ABUSER](https://github.com/user-attachments/assets/6832e114-ea2c-499c-8f1b-21f2005625d6)
-
-
