@@ -5,7 +5,7 @@
 
 909 ABUSER™️ by Lunsaiance Audio is a plugin for FLStudio's Patcher, which helps make Gabber & Hardcore Kicks in seconds!
 
-909 ABUSER Kick Previews: https://soundcloud.com/djlunsai/sets/909-abuser-plugin-previews
+[909 ABUSER Kick Previews](https://soundcloud.com/djlunsai/sets/909-abuser-plugin-previews)
 
 -
 ⚠️ HEADS UP BEFORE DOWNLOADING ⚠️
