@@ -28,9 +28,9 @@ PATCHER INSTALLATION
 
 -
 
-if you do not have it (this isn't required) download Xfer OTT which is free [here](https://xferrecords.com/freeware) this could be helpful in someways
+if you do not have it (this isn't required) download Xfer OTT which is free [here](https://xferrecords.com/freeware) this could be helpful in some ways
 
 -
 
-IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD OR TWITTER @omglunsai
+IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER, HAVE SOME IDEAS, OR NEED HELP, CONTACT ME OVER ON DISCORD OR TWITTER @omglunsai
 
