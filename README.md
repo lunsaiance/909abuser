@@ -68,7 +68,7 @@ All I'm doing here is removing where I hear the mud in my kick.
 
 This is all the info you need to know on using 909 ABUSER™️!
 
-The next step is to download and go through the installation process, which I have put together in the Installation Instructions file
+The next step is to download and go through the installation process, which I have put together in the [Installation Instructions](https://github.com/lunsaiance/909abuser/blob/master/Installation%20Instructions.md) file
 
 IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER™️, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD @omglunsai
 
