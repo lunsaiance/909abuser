@@ -26,5 +26,11 @@ PATCHER INSTALLATION
 
 4. Drag 909 ABUSER 1.0.0 into the Folder 
 
+-
+
+if you do not have it (this isn't required) download Xfer OTT which is free [here](https://xferrecords.com/freeware) this could be helpful in someways
+
+-
+
 IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD OR TWITTER @omglunsai
 
