@@ -7,7 +7,7 @@
 
 [909 ABUSER Kick Previews](https://soundcloud.com/djlunsai/sets/909-abuser-plugin-previews)
 
-(the second preview requires some knowledge of how the plugin works and added effects on your kick chain)
+(the second preview requires some knowledge of how the plugin works and built-in FL plugins on your kick chain)
 
 -
 ⚠️ HEADS UP BEFORE DOWNLOADING ⚠️
