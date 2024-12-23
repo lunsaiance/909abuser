@@ -4,7 +4,7 @@ This process contains 2 ways you can install 909 ABUSER™️
 
 -
 
-PLUGIN DATABASE INSTALLATION
+PLUGIN DATABASE INSTALLATION [Recommended]
 1. Download the latest release from here: https://github.com/lunsaiance/909abuser/releases 
 
 2. Extract the Zip
