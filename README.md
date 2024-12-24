@@ -46,9 +46,10 @@ The main sauce of your kick. I would like to add that adding too much of this ca
 ![3 THE DISTORTION](https://github.com/user-attachments/assets/0f0094f1-3aac-4a98-9dd0-14a1fa283ae9)
 
 # HOW DO I GET A CLEANER SOUND?
-This section is **MAINLY** for the people who make Frenchcore, I **HIGHLY RECOMMEND** that you guys do this so your kick isn't muddy.
 
-All I'm doing here is removing where I hear the mud in my kick.
+I **HIGHLY RECOMMEND** that you guys do this so your kick isn't muddy.
+
+All I'm doing here is removing the frequencies where I normally hear mud in my kick.
 
 **!!THIS GIF WAS MADE USING AN OLDER VERSION OF 909 ABUSER!!**
 
