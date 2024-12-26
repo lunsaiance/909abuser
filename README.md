@@ -3,6 +3,8 @@
  
  ⚠️ **MAKE SURE YOU READ EVERYTHING HERE BEFORE INSTALLING** ⚠️
 
+IF YOU DO NOT HAVE Fab Filter Pro Q3 GO DOWNLOAD [909 ABUSER LITE](https://github.com/lunsaiance/909abuserLITE)
+
 909 ABUSER™️ by Lunsaiance Audio is a plugin for FLStudio's Patcher, which helps make Gabber & Hardcore Kicks in seconds!
 
 [909 ABUSER Kick Previews](https://on.soundcloud.com/oyCDscUWNmCGPYJKA)
